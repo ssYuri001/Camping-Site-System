@@ -23,6 +23,3 @@ This Java (programming language) GUI camping system provides easy access for adm
 ## Authors
 - ssyuri @ abigiel.c
 
-# the screenshot of interface (result) 
-![Login](Screenshot%202026-07-03%20214542.png)
-
