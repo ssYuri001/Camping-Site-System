@@ -23,5 +23,12 @@ This Java (programming language) GUI camping system provides easy access for adm
 ## Authors
 - ssyuri @ abigiel.c
 
-##Screenshots
+## Screenshots
 ![Login](1.png)
+![AdminPage](2.png)
+![UserLoginPage](3.png)
+![BookingPage](4.png)
+![PopPage](5.png)
+![AdminAccessPage](6.png)
+![PopPage2](7.png)
+
