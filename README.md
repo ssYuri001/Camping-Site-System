@@ -22,4 +22,4 @@ This Java (programming language) GUI camping system provides easy access for adm
 
 ## Authors
 - ssyuri @ abigiel.c
-
+- Tee Hue Leng (Team collaboration) 
