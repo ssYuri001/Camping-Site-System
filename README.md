@@ -1,4 +1,4 @@
-# Camping_Reservation_System - "wonderland Camping site" 
+# Camping_Reservation_System - "wonderlane Camping site" 
 This Java (programming language) GUI camping system provides easy access for administrators, employees, and customers, with an interface designed following Shneiderman's Eight Golden Rules.
 
 ## Technologies Used
